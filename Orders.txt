@@ -1,0 +1,78 @@
+Date: Thu Nov 07 13:18:12 GMT 2019
+Costumer: oscar
+Movie: Countdown
+Genre: Terror
+Number of tickts: 1
+price: 7.199999999999999
+Date: Thu Nov 07 13:18:12 GMT 2019
+Costumer: oscar
+Movie: Countdown123
+Genre: comedia
+Number of tickts: 2
+price: 19.2
+Date: Thu Nov 07 13:18:31 GMT 2019
+Costumer: carol
+Movie: Countdown123
+Genre: comedia
+Number of tickts: 2
+price: 21.6
+Date: Thu Nov 07 13:58:02 GMT 2019
+Costumer: 2
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 1
+price: 7.199999999999999
+Date: Thu Nov 07 13:58:30 GMT 2019
+Costumer: asd
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 1
+price: 7.199999999999999
+Date: Thu Nov 07 14:20:43 GMT 2019
+Costumer: Oscar
+Movie: Joker
+Genre: Drama, Thriller
+Number of tickts: -1
+price: 0.0
+Date: Thu Nov 07 14:20:43 GMT 2019
+Costumer: Oscar
+Movie: Joker
+Genre: Drama, Thriller
+Number of tickts: 3
+price: 36.0
+Date: Mon Nov 11 13:50:22 GMT 2019
+Costumer: Oscar
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 2
+price: 24.0
+Date: Sun Nov 24 11:28:22 GMT 2019
+Costumer: Oscar
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 1
+price: 12.0
+Date: Sun Nov 24 12:26:08 GMT 2019
+Costumer: fabio
+Movie: Terminator: Dark Fate
+Genre: Action, Adventure, Sci-Fi
+Number of tickts: 1
+price: 7.199999999999999
+Date: Sun Nov 24 12:27:13 GMT 2019
+Costumer: pedro
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 1
+price: 7.199999999999999
+Date: Sun Nov 24 12:30:01 GMT 2019
+Costumer: claudia
+Movie: Doctor Sleep
+Genre: Horror
+Number of tickts: 1
+price: 7.199999999999999
+Date: Sun Nov 24 12:34:54 GMT 2019
+Costumer: fabio
+Movie: Joker
+Genre: Drama, Thriller
+Number of tickts: 3
+price: 28.799999999999997
